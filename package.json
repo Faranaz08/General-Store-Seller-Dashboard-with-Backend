@@ -1,0 +1,22 @@
+{
+  "name": "general-store-seller-dashboard-backend",
+  "version": "1.0.0",
+  "description": "store seller dashboard",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faranaz08/General-Store-Seller-Dashboard-with-Backend.git"
+  },
+  "author": "faranaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faranaz08/General-Store-Seller-Dashboard-with-Backend/issues"
+  },
+  "homepage": "https://github.com/Faranaz08/General-Store-Seller-Dashboard-with-Backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
